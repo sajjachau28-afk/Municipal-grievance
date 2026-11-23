@@ -1,7 +1,8 @@
 .env
+.vscode/
 venv/
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
-data/raw/
-data/processed/translated_gaps_checkpoint.csv
+nlp/data/raw/
+nlp/data/processed/translated_gaps_checkpoint.csv
